@@ -28,5 +28,4 @@ Weighted A*
 
 Greedy Search
 
-
 <img src="https://github.com/josvinjohn/Graph_Search_Algorithms/blob/master/Greedy.gif">
